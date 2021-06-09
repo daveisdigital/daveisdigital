@@ -1,2 +1,5 @@
-# daveisdigital
-All about me. Well. Maybe a little about me.
+# Dave Ingram
+
+See resume.md or resume.txt for my current resume  
+
+daveisdigital@gmail.com  
