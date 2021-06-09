@@ -1,22 +1,22 @@
-Dave Ingram - Resume - 2021:
+# Dave Ingram - Resume - 2021:
 
-[ Introduction ]
+## [ Introduction ]
 
 A Linux geek passionate about automation, security, and customers.
 An adaptable and capable generalist able to take very deep dives.
 An outgoing and jovial engineer who loves mentoring and documentation.
 
-[ Contact ]
+## [ Contact ]
 
 daveisdigital@gmail.com
 
-[ Experience ]
+## [ Experience ]
 
 Company: SAP Cloud Platform Big Data Services
 Position Held: Sr. DevOps Engineer
 Dates: MAR 2017 - SEP 2019
 
-Summary:
+###Summary:
 
 Improving all aspects of the lifecycle management process for Hadoop clusters.
 Handling on-call incidents from response to resolution to post-mortem.
@@ -29,7 +29,7 @@ Company: US Bank
 Position Held: Information Security Specialist
 Dates: AUGUST 2014 - FEB 2017
 
-Summary:
+###Summary:
 
 Reducing customer frustration by deploying workflow-oriented web portals.
 Increasing network scan speeds by over 500% with new tools.
@@ -42,7 +42,7 @@ Company: R Systems NA, Champaign IL
 Position Held: Senior Systems Engineer
 Dates: FEBRUARY 2010 - AUGUST 2014
 
-Summary:
+###Summary:
 
 Architected, deployed, and maintained clusters of up to 10,000 cores.
 Created local security standards (modeled on NIST SP 800 series).
@@ -56,7 +56,7 @@ Company: Self-employed
 Position Held: Cybercrime Investigator
 Dates: JANUARY 2008 - FEBRUARY 2010
 
-Summary:
+###Summary:
 
 Improved national security efforts through intelligence generation.
 Bootstrapped hundreds of cybercrime cases, leading to arrests globally.
@@ -68,7 +68,7 @@ Company: Wolfram Research
 Position Held: Systems Security Analyst
 Dates: FEBRUARY 2005 - DECEMBER 2007
 
-Summary: 
+###Summary: 
 
 Deployed and managed network-intrusion detection system.
 Identified and responded to daily security threats against the entire network.
@@ -81,7 +81,7 @@ Company: Wolfram Research
 Position Held: Senior Systems Administrator
 Dates: JULY 2003 - FEBRUARY 2005
 
-Summary:
+###Summary:
 
 Maintained 500+ node network. 
 Cared for an extremely eclectic group of *NIX systems needed for development and QA (Solaris, AIX, IRIX, Ultrix, etc). 
@@ -96,7 +96,7 @@ Company: Wolfram Research
 Position Held: Tools and Automation Engineer
 Dates: JUNE 2001 - JULY 2003
 
-Summary:
+###Summary:
 
 Audited existing software build processes.
 Designed and deployed automated software build system to build Wolfram's products.
@@ -105,14 +105,14 @@ Devised and deployed web-based software build repository system.
 Tools / Platforms used: RedHat Linux, Perl, Bourne shell scripting, MySQL, cvs, Mathematica
 ---
 
-REFERENCES:
+## [ References ]
 
 Robert Parker - Staff Engineer - Mastery Logistics (217) 390-3924
 Ryan Tokarek - Sr. Devops Engineer - NS1 (217) 761-5626 rmtokarek@gmail.com
 James Barlow - Director Software Dev. Engineering - Oath - (217) 840-0601
 
 
-SKILLS AND TRAITS:
+## [ Skills and Traits ]
 
 * 25+ years of Linux 
 * 25+ years of Microsoft OS's
@@ -126,13 +126,13 @@ SKILLS AND TRAITS:
 * I thrive on fire-fighting and problem-solving.
 * Linux performance-tuning rocks.
 
-LANGUAGES / HOBBIES:
+## [ Languages and Hobbies ]
 
 When I’m not speaking to computers or myself I speak English and casual German and Spanish. 
 I run a forensic honeynet across AWS, Digital Ocean, and Vultr infrastructures.
 
-EDUCATION:
+## [ Education ]
 
 Unity High School, Tolono IL
 
-=== END
+**=== END**
